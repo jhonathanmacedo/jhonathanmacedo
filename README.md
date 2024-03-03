@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhonathanmacedo
-- 👀 I'm interested in improving my skills in the world of programming.  ...
+- 👀 I'm interested in improving my skills in the world of programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me: Find me on Instagram or email me. 
