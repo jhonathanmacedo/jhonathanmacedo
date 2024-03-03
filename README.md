@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhonathanmacedo
+- 👋 Olá!  @jhonathanmacedo
 - 👀 I'm interested in improving my skills in the world of programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on new projects 
